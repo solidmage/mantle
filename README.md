@@ -34,6 +34,8 @@
 
 ## Introduction
 
+DONOT USE THIS; THIS IS PERSONAL FORK
+
 Mantle is a suite of Ethereum scaling solutions including an optimistic rollup and ZK rollup built using an iterative modular chain approach, and supported by Mantle’s native token $MNT.
 
 It is designed to bolster support for hyper-scaled throughput decentralized applications (dApps) — from derivatives decentralized exchanges (DEXs), to gaming, to operations of decentralized autonomous organizations (DAOs).
